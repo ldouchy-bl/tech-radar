@@ -25,3 +25,5 @@ Terrascan,Adopt,Tools,FALSE,"<p><strong><a href=""https://runterrascan.io/"">ter
 </p>"
 GitHubActions,Adopt,Platforms,FALSE,"<p><strong><a href=""https://docs.github.com/en/actions"">GitHub Actions</a> Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.</strong>
 </p>"
+Central Infrastructure as Code (IAC),Adopt,Techniques,FALSE,
+Terraform,Adopt,languages-and-frameworks,FALSE,
