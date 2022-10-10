@@ -27,3 +27,8 @@ GitHubActions,Adopt,Platforms,FALSE,"<p><strong><a href=""https://docs.github.co
 </p>"
 Central Infrastructure as Code (IAC),Adopt,Techniques,FALSE,
 Terraform,Adopt,languages-and-frameworks,FALSE,
+SonarQube,Assess,Tools,FALSE,"<p><strong><a href=""https://www.sonarqube.org/"">SonarQube</a> empowers all developers to write cleaner and safer code. Catch tricky bugs to prevent undefined behaviour from impacting end-users. Fix vulnerabilities that compromise your app, and learn AppSec along the way with Security Hotspots.Make sure your codebase is clean and maintainable, to increase developer velocity!</strong>
+</p>"
+Sonatype Nexus Repository Manager,Assess,Platforms,FALSE,"<p><strong><a href=""https://nexus3.onap.org/"">Sonatype Nexus Repository Manager</a> Manage binaries and build artifacts across your
+software supply chain.</strong></p>"
+Jfrog Artifactory,Assess,Platforms,FALSE,"<p><strong><a href=""https://jfrog.com/artifactory/>JFROG Artifactory</a> is the single solution for housing and managing all the artifacts, binaries, packages, files, containers, and components for use throughout your software supply chain. JFrog Artifactory serves as your central hub for DevOps, integrating with your tools and processes to improve automation, increase integrity, and incorporate best practices along the way.</strong></p>"
