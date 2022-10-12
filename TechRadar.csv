@@ -34,10 +34,3 @@ OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resourc
 </p>"
 Three Musketeers,Trial,Techniques,TRUE,"<p><strong><a href=""https://3musketeers.io/"">3 Musketeers</a> is a pattern for developing software in a repeatable and consistent manner. It leverages Make as an orchestration tool to test, build, run, and deploy applications using Docker and Docker Compose. The Make and Docker/Compose commands for each application are maintained as part of the application’s source code and are invoked in the same way whether run locally or on a CI/CD server.</strong></p>"
 Production data in test environments,Hold,Techniques,FALSE,"<p>We continue to perceive <b>production data in test environments</b> as an area for concern. Firstly, many examples of this have resulted in reputational damage, for example, where an incorrect alert has been sent from a test system to an entire client population. Secondly, the level of security, specifically around protection of private data, tends to be less for test systems. There is little point in having elaborate controls around access to production data if that data is copied to a test database that can be accessed by every developer and QA. Although you can obfuscate the data, this tends to be applied only to specific fields, for example, credit card numbers. Finally, copying production data to test systems can break privacy laws, for example, where test systems are hosted or accessed from a different country or region. This last scenario is especially problematic with complex cloud deployments. Fake data is a safer approach, and tools exist to help in its creation. We do recognize there are reasons for specific elements of production data to be copied, for example, in the reproduction of bugs or for training of specific ML models. Here our advice is to proceed with caution.</p>"
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
