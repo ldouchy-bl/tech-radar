@@ -1,4 +1,6 @@
 name,ring,quadrant,isNew,description
+CUDOS Dashboards,Adopt,Tools,FALSE,"<p><strong><a href=""https://www.wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/"">A suite of cloud intelligence dashboards (CUDOS Framework) by utilising AWS Cost and Usage Report (CUR), Amazon Athena, AWS Glue, Amazon S3, and Amazon QuickSight.</strong>
+</p>"
 AFT,Adopt,Tools,FALSE,"<p><strong><a href=""https://learn.hashicorp.com/tutorials/terraform/aws-control-tower-aft"">AWS Control Tower Account Factory for Terraform (AFT)</a>  is a Terraform module that makes it easy to create and customize new accounts that comply with your organization's security guidelines. AFT defines a pipeline for automated and consistent creation of AWS Control Tower accounts, giving you the benefits of Terraform's workflow and Control Tower's governance features. AWS maintains this module.</strong>
 </p>"
 Terrascan,Adopt,Tools,FALSE,"<p><strong><a href=""https://runterrascan.io/"">terrascan</a> provides 500+ out-of-the-box policies so that you can scan IaC against common policy standards such as the CIS Benchmark. It leverages the Open Policy Agent (OPA) engine so that you can easily create custom policies using the Rego query language.</strong>
