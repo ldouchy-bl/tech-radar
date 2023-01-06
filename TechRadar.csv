@@ -20,6 +20,8 @@ OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resourc
   <li>B2B integration, API access management, Advanced server access...</li>
 </ul></strong>
 </p>"
+Openai.com,Assess,Tools,TRUE,"<p><strong><a href=""https://openai.com/"">OpenAI</a>AI to assist with answering questions and providing information on a wide range of topics.</strong>
+</p>"
 Cloud Carbon Footprint,Assess,Tools,TRUE,"<p><strong><a href=""https://www.cloudcarbonfootprint.org/"">Cloud Carbon Footprint</a> is an open source tool that provides visibility and tooling to measure, monitor and reduce your cloud carbon emissions. We use best practice methodologies to convert cloud utilization into estimated energy usage and carbon emissions, producing metrics and carbon savings estimates that can be shared with employees, investors, and other stakeholders.</strong>
 </p>"
 BuildKite CICD,Assess,Platforms,TRUE,"<p><strong><a href=""https://buildkite.com/"">Buildkite</a> is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. Buildkite provides a SaaS platform to define and visualize pipelines, and an agent to execute jobs on customer-managed infrastructure.. Buildkite named a High Performer by G2</strong>
