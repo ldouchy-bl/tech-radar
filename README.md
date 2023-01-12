@@ -49,7 +49,7 @@ Fundamentally, it boils down to one or more TAB members thinking it's important.
 
 The data that is used to generate the radar is in a TechRadar.csv file located in the following github repo.
 
-* [TechRadar CSV](https://github.com/BLGEngineering/tech-radar)
+* [TechRadar CSV](https://github.com/BLGEngineering/tech-radar/blob/main/TechRadar.csv)
 
 The CSV contains 5 columns:
 * name
