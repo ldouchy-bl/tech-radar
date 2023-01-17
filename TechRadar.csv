@@ -26,6 +26,10 @@ backstage.io,Assess,Tools,TRUE,"<p><strong><a href=""https://backstage.io/"">Bac
 </p>"
 Cloud Carbon Footprint,Assess,Tools,TRUE,"<p><strong><a href=""https://www.cloudcarbonfootprint.org/"">Cloud Carbon Footprint</a> is an open source tool that provides visibility and tooling to measure, monitor and reduce your cloud carbon emissions. We use best practice methodologies to convert cloud utilization into estimated energy usage and carbon emissions, producing metrics and carbon savings estimates that can be shared with employees, investors, and other stakeholders.</strong>
 </p>"
+snyk,Assess,Tools,TRUE,"<p><strong><a href=""https://snyk.io/product/infrastructure-as-code-security/drift-management/"">synk</a> your IaC with your cloud. Infrastructure can and still is modified post-deployment, causing deviations from what’s defined in IaC and what exists in the cloud. Drift management for Snyk IaC secures your entire infrastructure lifecycle from code to cloud by detecting infrastructure drift in cloud environments and surfacing unmanaged infrastructure.</strong>
+</p>"
+driftctl,Assess,Tools,TRUE,"<p><strong><a href=""https://driftctl.com/"">driftctl</a> is a free and open-source CLI that warns of infrastructure drift and fills in the missing piece in your DevSecOps toolbox.</strong>
+</p>"
 BuildKite CICD,Assess,Platforms,TRUE,"<p><strong><a href=""https://buildkite.com/"">Buildkite</a> is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. Buildkite provides a SaaS platform to define and visualize pipelines, and an agent to execute jobs on customer-managed infrastructure.. Buildkite named a High Performer by G2</strong>
 </p>"
 CHECKOV,Assess,Tools,TRUE,"<p><strong><a href=""https://www.checkov.io/"">checkov</a> scans cloud infrastructure configurations to find misconfigurations before they're deployed.
